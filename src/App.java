@@ -3,6 +3,6 @@ public class App {
         System.out.println("Hello, World!");
         MainFrame myFrame = new MainFrame();
         myFrame.init();
-        myFrame.init();
+        // myFrame.init();
     }
 }
